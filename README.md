@@ -9,7 +9,7 @@ There are many powerful JavaScript frameworks and tools that can help you make a
 This library was made for building frontend interfaces on top of **[Mindee](https://mindee.com/)** document parsing APIs and more generally on top of any computer vision detection APIs.
 
 [![NPM](https://img.shields.io/npm/v/react-mindee-js.svg)](https://www.npmjs.com/package/react-mindee-js/v/1.3.0) [![tests](https://github.com/mindee/react-mindee-js/actions/workflows/cypress-workflow.yml/badge.svg?branch=new-version)](https://github.com/mindee/react-mindee-js/actions/workflows/cypress-workflow.yml)
-
+test
 ![ezgif com-video-to-gif (12)](https://user-images.githubusercontent.com/41388086/87852820-92045b80-c905-11ea-808e-5a971de2b29f.gif)
 
 ## Features
